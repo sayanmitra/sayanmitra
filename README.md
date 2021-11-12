@@ -2,6 +2,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanmitra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmitra)](https://github.com/anuraghazra/github-readme-stats)
 
+**About me**
+
+- 💼 PhD student at [The University of Sydney](https://www.sydney.edu.au/)
+
+- 🌱 I’m currently learning how to use [R](https://www.r-project.org/about.html) to analyse data
+
 <!--
 **sayanmitra/sayanmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

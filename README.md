@@ -1,7 +1,4 @@
 ### Hi there 👋
-<a href="https://github.com/nschloe/optimesh">
-  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
-</a>
 
 [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanmitra&show_icons=true)](https://github.com/sayanmitra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmitra&layout=compact)](https://github.com/sayanmitra/github-readme-stats)

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanmitra&show_icons=true)](https://github.com/sayanmitra/github-readme-stats)
+[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanmitra&theme=buefy&show_icons=true)](https://github.com/sayanmitra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmitra&layout=compact)](https://github.com/sayanmitra/github-readme-stats)
 
 **About me**

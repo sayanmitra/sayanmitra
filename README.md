@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning how to analyse data using [R](https://www.r-project.org/about.html)
 
-<a href="https://www.buymeacoffee.com/sayanmitra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!--
 **sayanmitra/sayanmitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="https://www.buymeacoffee.com/sayanmitra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 -->

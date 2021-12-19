@@ -2,6 +2,13 @@
 [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanmitra&theme=buefy&show_icons=true)](https://github.com/sayanmitra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmitra&layout=compact)](https://github.com/sayanmitra/github-readme-stats)
 
+<a href="https://github.com/sayanmitra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanmitra&theme=buefy&show_icons=true" />
+</a>
+<a href="https://github.com/sayanmitra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmitra&layout=compact" />
+</a>
+
 **About me**
 
 - 💼 [PhD student](https://www.sydney.edu.au/medicine-health/about/our-people/research-students/sayan-mitra-103.html) at [The University of Sydney](https://www.sydney.edu.au/)

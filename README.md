@@ -2,7 +2,7 @@
 [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanmitra&theme=buefy&show_icons=true)](https://github.com/sayanmitra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmitra&layout=compact)](https://github.com/sayanmitra/github-readme-stats) 
 
-**About me**  
+**About me**   
 
 - 💼 [PhD student](https://www.sydney.edu.au/medicine-health/about/our-people/research-students/sayan-mitra-103.html) at [The University of Sydney](https://www.sydney.edu.au/)
 - 🌱 I’m currently learning how to analyse data using [R](https://www.r-project.org/about.html)

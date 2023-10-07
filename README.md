@@ -28,4 +28,4 @@ Here are some ideas to get you started:
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sayanmitra&skills=JavaScript,TypeScript&show-other-skills=true"
 />
 
--->
+--> 

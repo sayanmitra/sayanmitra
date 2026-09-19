@@ -5,7 +5,7 @@
 
 **About me**   
 
-- 💼 [Research Affiliate](https://profiles.sydney.edu.au/sayan.mitra?nsh) at [The University of Sydney](https://www.sydney.edu.au/)
+- 💼 [Research Affiliate](https://profiles.sydney.edu.au/sayan.mitra) at [The University of Sydney](https://www.sydney.edu.au/)
 - 🌱 I’m currently learning how to analyse data using [R](https://www.r-project.org/about.html)
  
 

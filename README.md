@@ -1,6 +1,7 @@
 ### Hi there 👋
-[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayanmitra&show_icons=true&theme=transparent)](https://github.com/sayanmitra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanmitra&show_icons=true&theme=transparent&layout=compact)](https://github.com/sayanmitra/github-readme-stats) 
+[![Sayan's GitHub stats](https://github-readme-stats-extended.vercel.app/api?username=sayanmitra&show_icons=true&theme=transparent)](https://github.com/sayanmitra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=sayanmitra&show_icons=true&theme=transparent&layout=compact)](https://github.com/sayanmitra/github-readme-stats) 
+
 
 **About me**   
 
